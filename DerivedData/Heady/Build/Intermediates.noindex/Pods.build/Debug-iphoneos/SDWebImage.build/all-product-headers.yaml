@@ -1,0 +1,382 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/AZSearchView/AZSearchView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AZSearchView-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/AZSearchView/AZSearchView.framework/Headers/AZSearchView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AZSearchView-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/AZSearchView/AZSearchView-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/AZSearchView/AZSearchView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AZSearchView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "IQKeyboardManagerSwift-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NVActivityIndicatorView-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers/NVActivityIndicatorView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NVActivityIndicatorView-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/NVActivityIndicatorView/NVActivityIndicatorView-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/NVActivityIndicatorView/NVActivityIndicatorView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/NVActivityIndicatorView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Pods_Heady.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Heady-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/Pods-Heady/Pods-Heady-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Heady-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Pods_Heady.framework/Headers/Pods_Heady-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/Pods_Heady.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-Heady.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSButton+WebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/NSButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSImage+WebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDAnimatedImageRep.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDAnimatedImageRep.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCacheConfig.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCoder.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCoderHelper.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageCoderHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCodersManager.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageCodersManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageFrame.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageFrame.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageGIFCoder.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageGIFCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageImageIOCoder.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageImageIOCoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageTransition.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/SDWebImageTransition.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ForceDecode.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImage+ForceDecode.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MemoryCacheCost.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImage+MemoryCacheCost.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCache.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressAnimatedView.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SVProgressHUD/SVProgressHUD/SVProgressAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Headers/SVProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVRadialGradientLayer.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/SVProgressHUD/SVProgressHUD/SVRadialGradientLayer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SVProgressHUD/SVProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SVProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SkyFloatingLabelTextField-Swift.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Headers/SkyFloatingLabelTextField-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SkyFloatingLabelTextField-umbrella.h",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Target Support Files/SkyFloatingLabelTextField/SkyFloatingLabelTextField-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Products/Debug-iphoneos/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/dhiraj/Desktop/iOS Projects/Heady/DerivedData/Heady/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SkyFloatingLabelTextField.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

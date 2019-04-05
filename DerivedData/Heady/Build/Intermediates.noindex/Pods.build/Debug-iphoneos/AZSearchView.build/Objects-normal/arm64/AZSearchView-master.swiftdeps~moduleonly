@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f28b13b0f2d2c54794d4c91e26bee9b3"
+build_time: [1554491239, 74260000]
+inputs:
+  "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/AZSearchView/src/AZSearchViewController.swift": [1554491058, 0]
+  "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/AZSearchView/src/AZSearchViewDataSource.swift": [1554491058, 0]
+  "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/AZSearchView/src/AZSearchViewDefaults.swift": [1554491058, 0]
+  "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/AZSearchView/src/AZSearchViewDelegate.swift": [1554491058, 0]
