@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "f43692522d2c6e48b9701c2181ae182c"
-build_time: [1554491239, 559583000]
+build_time: [1554574064, 732009000]
 inputs:
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Alamofire/Source/AFError.swift": [1554408530, 0]
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/Alamofire/Source/Alamofire.swift": [1554408530, 0]

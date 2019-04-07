@@ -12,7 +12,7 @@ class MovieList : NSObject {
     var id : String!
     var vote_average : Double!
     var title : String!
-    var popularity : String!
+    var popularity : Double!
     var poster_path : String!
     var original_title : String!
     var overview : String!
@@ -40,7 +40,7 @@ class MovieList : NSObject {
         if let value = rawData["release_date"] as? String{
             release_date = value
         }
-        if let value = rawData["popularity"] as? String{
+        if let value = rawData["popularity"] as? Double{
             popularity = value
         }
         if let value = rawData["poster_path"] as? String{

@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>18BFB8F1-B8E2-4499-9D3D-E4E396D223D5</key>
+		<key>00B0682A-327B-4AC1-BA14-68D7B2EF6C8E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,36 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>18BFB8F1-B8E2-4499-9D3D-E4E396D223D5.xcactivitylog</string>
+			<string>00B0682A-327B-4AC1-BA14-68D7B2EF6C8E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291256.79051995</real>
+			<key>timeStoppedRecording</key>
+			<real>576291258.86594296</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>00B0682A-327B-4AC1-BA14-68D7B2EF6C8E</string>
+		</dict>
+		<key>02281C7E-BB32-4B44-98A2-675F3B477B74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02281C7E-BB32-4B44-98A2-675F3B477B74.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +56,15 @@
 			<key>signature</key>
 			<string>Build Heady</string>
 			<key>timeStartedRecording</key>
-			<real>576184458.63418102</real>
+			<real>576270061.94607103</real>
 			<key>timeStoppedRecording</key>
-			<real>576184471.31362605</real>
+			<real>576270070.89319801</real>
 			<key>title</key>
 			<string>Build Heady</string>
 			<key>uniqueIdentifier</key>
-			<string>18BFB8F1-B8E2-4499-9D3D-E4E396D223D5</string>
+			<string>02281C7E-BB32-4B44-98A2-675F3B477B74</string>
 		</dict>
-		<key>466F52A7-990E-4BA7-8A52-653436E875B8</key>
+		<key>0329E821-7B5C-45A1-AF15-1FEC4A559808</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -44,65 +73,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>466F52A7-990E-4BA7-8A52-653436E875B8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Heady project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Heady</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Heady</string>
-			<key>timeStartedRecording</key>
-			<real>576184202.91812003</real>
-			<key>timeStoppedRecording</key>
-			<real>576184203.62363398</real>
-			<key>title</key>
-			<string>Build Heady</string>
-			<key>uniqueIdentifier</key>
-			<string>466F52A7-990E-4BA7-8A52-653436E875B8</string>
-		</dict>
-		<key>4EEDD41F-B3AA-4126-8112-BE6EF0404975</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4EEDD41F-B3AA-4126-8112-BE6EF0404975.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Heady project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Heady</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Heady</string>
-			<key>timeStartedRecording</key>
-			<real>576184153.65822899</real>
-			<key>timeStoppedRecording</key>
-			<real>576184159.19857395</real>
-			<key>title</key>
-			<string>Build Heady</string>
-			<key>uniqueIdentifier</key>
-			<string>4EEDD41F-B3AA-4126-8112-BE6EF0404975</string>
-		</dict>
-		<key>508F81BA-718B-4976-BE12-82CAD582489E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>508F81BA-718B-4976-BE12-82CAD582489E.xcactivitylog</string>
+			<string>0329E821-7B5C-45A1-AF15-1FEC4A559808.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -112,17 +83,17 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Clean Heady</string>
+			<string>Build Heady</string>
 			<key>timeStartedRecording</key>
-			<real>576184035.93320501</real>
+			<real>576294093.813012</real>
 			<key>timeStoppedRecording</key>
-			<real>576184036.31411803</real>
+			<real>576294096.72520399</real>
 			<key>title</key>
-			<string>Clean Heady</string>
+			<string>Build Heady</string>
 			<key>uniqueIdentifier</key>
-			<string>508F81BA-718B-4976-BE12-82CAD582489E</string>
+			<string>0329E821-7B5C-45A1-AF15-1FEC4A559808</string>
 		</dict>
-		<key>899A3366-EDEA-4BBC-854A-CB8B98D387A4</key>
+		<key>052EF078-5DC6-45C5-B2E9-BF668AFC8590</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -131,9 +102,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>899A3366-EDEA-4BBC-854A-CB8B98D387A4.xcactivitylog</string>
+			<string>052EF078-5DC6-45C5-B2E9-BF668AFC8590.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>Heady project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -143,15 +114,15 @@
 			<key>signature</key>
 			<string>Build Heady</string>
 			<key>timeStartedRecording</key>
-			<real>576184229.32520998</real>
+			<real>576293144.29232895</real>
 			<key>timeStoppedRecording</key>
-			<real>576184242.99251604</real>
+			<real>576293145.97507703</real>
 			<key>title</key>
 			<string>Build Heady</string>
 			<key>uniqueIdentifier</key>
-			<string>899A3366-EDEA-4BBC-854A-CB8B98D387A4</string>
+			<string>052EF078-5DC6-45C5-B2E9-BF668AFC8590</string>
 		</dict>
-		<key>FFDA650E-9D4E-46A3-A975-C0C8EF654E5D</key>
+		<key>0B090EFD-4A3E-474E-B510-AACEDE6D25E8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -160,7 +131,123 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FFDA650E-9D4E-46A3-A975-C0C8EF654E5D.xcactivitylog</string>
+			<string>0B090EFD-4A3E-474E-B510-AACEDE6D25E8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317658.533216</real>
+			<key>timeStoppedRecording</key>
+			<real>576317665.40011895</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>0B090EFD-4A3E-474E-B510-AACEDE6D25E8</string>
+		</dict>
+		<key>0D4F3005-9D55-4072-8088-B5D3A3BEC09F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D4F3005-9D55-4072-8088-B5D3A3BEC09F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317633.28609502</real>
+			<key>timeStoppedRecording</key>
+			<real>576317639.73327804</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>0D4F3005-9D55-4072-8088-B5D3A3BEC09F</string>
+		</dict>
+		<key>0FF56BF2-611A-4E28-ACB1-B56A399C76CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FF56BF2-611A-4E28-ACB1-B56A399C76CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576311147.68968797</real>
+			<key>timeStoppedRecording</key>
+			<real>576311162.19907498</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>0FF56BF2-611A-4E28-ACB1-B56A399C76CC</string>
+		</dict>
+		<key>12809046-E20A-4392-837D-FC5F37FA3B23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12809046-E20A-4392-837D-FC5F37FA3B23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312262.353706</real>
+			<key>timeStoppedRecording</key>
+			<real>576312270.03047097</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>12809046-E20A-4392-837D-FC5F37FA3B23</string>
+		</dict>
+		<key>1D58036E-2A15-4C3A-8E78-D03BF71C7EA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D58036E-2A15-4C3A-8E78-D03BF71C7EA0.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>E</string>
 			<key>schemeIdentifier-containerName</key>
@@ -172,13 +259,2362 @@
 			<key>signature</key>
 			<string>Build Heady</string>
 			<key>timeStartedRecording</key>
-			<real>576183950.43595803</real>
+			<real>576273196.38975</real>
 			<key>timeStoppedRecording</key>
-			<real>576183954.32917202</real>
+			<real>576273200.04312301</real>
 			<key>title</key>
 			<string>Build Heady</string>
 			<key>uniqueIdentifier</key>
-			<string>FFDA650E-9D4E-46A3-A975-C0C8EF654E5D</string>
+			<string>1D58036E-2A15-4C3A-8E78-D03BF71C7EA0</string>
+		</dict>
+		<key>26A88511-357C-410E-A59B-C95E59EEDDFC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26A88511-357C-410E-A59B-C95E59EEDDFC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291342.85445499</real>
+			<key>timeStoppedRecording</key>
+			<real>576291347.68486702</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>26A88511-357C-410E-A59B-C95E59EEDDFC</string>
+		</dict>
+		<key>276A4B8A-7C3E-456D-9F6D-1D8FD043B41A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>276A4B8A-7C3E-456D-9F6D-1D8FD043B41A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291884.31875396</real>
+			<key>timeStoppedRecording</key>
+			<real>576291884.58523297</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>276A4B8A-7C3E-456D-9F6D-1D8FD043B41A</string>
+		</dict>
+		<key>28C98322-2CD3-4BB7-91B5-F50EF6D876FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>28C98322-2CD3-4BB7-91B5-F50EF6D876FB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576209815.84952998</real>
+			<key>timeStoppedRecording</key>
+			<real>576209816.19016004</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>28C98322-2CD3-4BB7-91B5-F50EF6D876FB</string>
+		</dict>
+		<key>2CCB6671-BE0F-4EF7-8D61-18A46ADE845C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CCB6671-BE0F-4EF7-8D61-18A46ADE845C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576294929.19975102</real>
+			<key>timeStoppedRecording</key>
+			<real>576294932.34872901</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>2CCB6671-BE0F-4EF7-8D61-18A46ADE845C</string>
+		</dict>
+		<key>2D552055-F9C4-443E-8616-10E55F5EC930</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D552055-F9C4-443E-8616-10E55F5EC930.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576269131.13176203</real>
+			<key>timeStoppedRecording</key>
+			<real>576269137.28074801</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>2D552055-F9C4-443E-8616-10E55F5EC930</string>
+		</dict>
+		<key>2FAB5B9F-00E0-415B-B722-5C50E652B5A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FAB5B9F-00E0-415B-B722-5C50E652B5A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576295091.61003006</real>
+			<key>timeStoppedRecording</key>
+			<real>576295093.74757397</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>2FAB5B9F-00E0-415B-B722-5C50E652B5A7</string>
+		</dict>
+		<key>30438BEA-AD1A-4251-BC9D-0C4B923D12B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>30438BEA-AD1A-4251-BC9D-0C4B923D12B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576292100.93441904</real>
+			<key>timeStoppedRecording</key>
+			<real>576292102.25079</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>30438BEA-AD1A-4251-BC9D-0C4B923D12B2</string>
+		</dict>
+		<key>3183C693-632B-4D59-845E-C2E0D731C565</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3183C693-632B-4D59-845E-C2E0D731C565.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576267651.62801397</real>
+			<key>timeStoppedRecording</key>
+			<real>576267659.08419895</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>3183C693-632B-4D59-845E-C2E0D731C565</string>
+		</dict>
+		<key>3B46735A-0B2B-4CE4-B818-2A9B38F48D14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B46735A-0B2B-4CE4-B818-2A9B38F48D14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273179.31713295</real>
+			<key>timeStoppedRecording</key>
+			<real>576273183.02191103</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>3B46735A-0B2B-4CE4-B818-2A9B38F48D14</string>
+		</dict>
+		<key>3CE2917A-2731-4068-8ECB-14E5E809C9B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CE2917A-2731-4068-8ECB-14E5E809C9B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576292686.01000404</real>
+			<key>timeStoppedRecording</key>
+			<real>576292689.04068995</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>3CE2917A-2731-4068-8ECB-14E5E809C9B2</string>
+		</dict>
+		<key>3F661215-9FA7-471A-A94E-116858640AA1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F661215-9FA7-471A-A94E-116858640AA1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317401.40393806</real>
+			<key>timeStoppedRecording</key>
+			<real>576317407.86038399</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>3F661215-9FA7-471A-A94E-116858640AA1</string>
+		</dict>
+		<key>419DE1AE-6BF5-4AD1-BD23-E0E51DEC28CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>419DE1AE-6BF5-4AD1-BD23-E0E51DEC28CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291387.09667397</real>
+			<key>timeStoppedRecording</key>
+			<real>576291388.27071702</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>419DE1AE-6BF5-4AD1-BD23-E0E51DEC28CD</string>
+		</dict>
+		<key>41C9EAC1-ED51-4919-A33D-D5DC2CFABFD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41C9EAC1-ED51-4919-A33D-D5DC2CFABFD9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293505.23712897</real>
+			<key>timeStoppedRecording</key>
+			<real>576293512.92478895</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>41C9EAC1-ED51-4919-A33D-D5DC2CFABFD9</string>
+		</dict>
+		<key>462345FB-8010-4CB8-9F4E-CCFE3CCEB40E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>462345FB-8010-4CB8-9F4E-CCFE3CCEB40E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271688.88155305</real>
+			<key>timeStoppedRecording</key>
+			<real>576271689.65991402</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>462345FB-8010-4CB8-9F4E-CCFE3CCEB40E</string>
+		</dict>
+		<key>48E2BF7B-1320-44A7-94F5-15C37F98BAB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48E2BF7B-1320-44A7-94F5-15C37F98BAB4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312443.80859601</real>
+			<key>timeStoppedRecording</key>
+			<real>576312451.01701295</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>48E2BF7B-1320-44A7-94F5-15C37F98BAB4</string>
+		</dict>
+		<key>4A0D66C6-8681-4002-875A-E6C852C524D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A0D66C6-8681-4002-875A-E6C852C524D0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270891.83342195</real>
+			<key>timeStoppedRecording</key>
+			<real>576270898.01918304</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>4A0D66C6-8681-4002-875A-E6C852C524D0</string>
+		</dict>
+		<key>56F576AA-42BC-49FE-8093-126CC1457492</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>56F576AA-42BC-49FE-8093-126CC1457492.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293563.38887799</real>
+			<key>timeStoppedRecording</key>
+			<real>576293566.01441097</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>56F576AA-42BC-49FE-8093-126CC1457492</string>
+		</dict>
+		<key>59B1AC41-D817-4884-AF9E-8AC12E3CF6B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59B1AC41-D817-4884-AF9E-8AC12E3CF6B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576318344.530931</real>
+			<key>timeStoppedRecording</key>
+			<real>576318346.32921302</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>59B1AC41-D817-4884-AF9E-8AC12E3CF6B1</string>
+		</dict>
+		<key>5D82587A-E8B0-44D5-9F13-0A11FB2A1CBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D82587A-E8B0-44D5-9F13-0A11FB2A1CBB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317279.27403796</real>
+			<key>timeStoppedRecording</key>
+			<real>576317286.18684196</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>5D82587A-E8B0-44D5-9F13-0A11FB2A1CBB</string>
+		</dict>
+		<key>5E0336D7-D5D5-49B7-A65F-84A0169A79BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E0336D7-D5D5-49B7-A65F-84A0169A79BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312659.82206202</real>
+			<key>timeStoppedRecording</key>
+			<real>576312666.50711906</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>5E0336D7-D5D5-49B7-A65F-84A0169A79BC</string>
+		</dict>
+		<key>5F5E691A-4B67-4237-847B-ED0EDFB7A52B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F5E691A-4B67-4237-847B-ED0EDFB7A52B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312504.57802606</real>
+			<key>timeStoppedRecording</key>
+			<real>576312511.23522699</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>5F5E691A-4B67-4237-847B-ED0EDFB7A52B</string>
+		</dict>
+		<key>622490CB-869C-47C3-B097-FFEEFD032A43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>622490CB-869C-47C3-B097-FFEEFD032A43.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576275307.410941</real>
+			<key>timeStoppedRecording</key>
+			<real>576275317.46861303</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>622490CB-869C-47C3-B097-FFEEFD032A43</string>
+		</dict>
+		<key>625256D0-4522-4204-B686-837670470185</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>625256D0-4522-4204-B686-837670470185.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576268908.14766896</real>
+			<key>timeStoppedRecording</key>
+			<real>576268915.55739796</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>625256D0-4522-4204-B686-837670470185</string>
+		</dict>
+		<key>635727F9-E0E5-4C81-BC92-6689EA9AB484</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>635727F9-E0E5-4C81-BC92-6689EA9AB484.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273248.20160902</real>
+			<key>timeStoppedRecording</key>
+			<real>576273254.76918399</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>635727F9-E0E5-4C81-BC92-6689EA9AB484</string>
+		</dict>
+		<key>6517BDB9-0A99-4B33-A85B-7E1074F07E58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6517BDB9-0A99-4B33-A85B-7E1074F07E58.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576294421.96542895</real>
+			<key>timeStoppedRecording</key>
+			<real>576294424.81888103</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>6517BDB9-0A99-4B33-A85B-7E1074F07E58</string>
+		</dict>
+		<key>691177FD-856D-4B8B-B572-7BF9080D6802</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>691177FD-856D-4B8B-B572-7BF9080D6802.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576311901.21537697</real>
+			<key>timeStoppedRecording</key>
+			<real>576311904.09612405</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>691177FD-856D-4B8B-B572-7BF9080D6802</string>
+		</dict>
+		<key>69D0D1DB-6551-4C0B-8B93-F1A5D61A07EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69D0D1DB-6551-4C0B-8B93-F1A5D61A07EE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576311611.71622598</real>
+			<key>timeStoppedRecording</key>
+			<real>576311613.53140402</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>69D0D1DB-6551-4C0B-8B93-F1A5D61A07EE</string>
+		</dict>
+		<key>6A73EEA3-2E22-4FDF-AB4A-A486DF4E4EDD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A73EEA3-2E22-4FDF-AB4A-A486DF4E4EDD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576266995.93926799</real>
+			<key>timeStoppedRecording</key>
+			<real>576266997.09871697</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>6A73EEA3-2E22-4FDF-AB4A-A486DF4E4EDD</string>
+		</dict>
+		<key>6B7543D8-BF4D-41C2-9ED6-8D5D94139936</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B7543D8-BF4D-41C2-9ED6-8D5D94139936.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576318534.79640698</real>
+			<key>timeStoppedRecording</key>
+			<real>576318536.51205206</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>6B7543D8-BF4D-41C2-9ED6-8D5D94139936</string>
+		</dict>
+		<key>6CF914B0-A9FA-4353-8264-DD83E5AFF88E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6CF914B0-A9FA-4353-8264-DD83E5AFF88E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271598.13383806</real>
+			<key>timeStoppedRecording</key>
+			<real>576271601.78016496</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>6CF914B0-A9FA-4353-8264-DD83E5AFF88E</string>
+		</dict>
+		<key>6D5F7EA1-F2E6-482C-BF63-3B3440B42C3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D5F7EA1-F2E6-482C-BF63-3B3440B42C3D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270695.12906003</real>
+			<key>timeStoppedRecording</key>
+			<real>576270695.84594095</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>6D5F7EA1-F2E6-482C-BF63-3B3440B42C3D</string>
+		</dict>
+		<key>726B0149-0224-41F3-8410-B7097EE7C7DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>726B0149-0224-41F3-8410-B7097EE7C7DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576318703.48106098</real>
+			<key>timeStoppedRecording</key>
+			<real>576318710.33849096</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>726B0149-0224-41F3-8410-B7097EE7C7DE</string>
+		</dict>
+		<key>785651C3-2265-46C8-8F77-0DF630F1FF2B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>785651C3-2265-46C8-8F77-0DF630F1FF2B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312588.04164195</real>
+			<key>timeStoppedRecording</key>
+			<real>576312588.83472395</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>785651C3-2265-46C8-8F77-0DF630F1FF2B</string>
+		</dict>
+		<key>7D3E8A45-1386-41B7-8BF1-AC71FEE4FBE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D3E8A45-1386-41B7-8BF1-AC71FEE4FBE5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317314.78573501</real>
+			<key>timeStoppedRecording</key>
+			<real>576317320.93478</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>7D3E8A45-1386-41B7-8BF1-AC71FEE4FBE5</string>
+		</dict>
+		<key>7E4D9F28-E017-4764-89F8-01EB1C94DD23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E4D9F28-E017-4764-89F8-01EB1C94DD23.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576292926.57992494</real>
+			<key>timeStoppedRecording</key>
+			<real>576292934.68421996</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>7E4D9F28-E017-4764-89F8-01EB1C94DD23</string>
+		</dict>
+		<key>7EF54CC0-3FBC-42FB-961E-37DE835BDAA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EF54CC0-3FBC-42FB-961E-37DE835BDAA6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270768.83879197</real>
+			<key>timeStoppedRecording</key>
+			<real>576270769.65618801</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>7EF54CC0-3FBC-42FB-961E-37DE835BDAA6</string>
+		</dict>
+		<key>82A3034F-5655-4215-A392-84C28C94E44F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82A3034F-5655-4215-A392-84C28C94E44F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312546.91212702</real>
+			<key>timeStoppedRecording</key>
+			<real>576312553.80662096</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>82A3034F-5655-4215-A392-84C28C94E44F</string>
+		</dict>
+		<key>84C3A20C-98FF-4C1E-9C2F-E1953F7226BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84C3A20C-98FF-4C1E-9C2F-E1953F7226BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317608.84914696</real>
+			<key>timeStoppedRecording</key>
+			<real>576317616.72315705</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>84C3A20C-98FF-4C1E-9C2F-E1953F7226BE</string>
+		</dict>
+		<key>8995D352-93F4-4A41-BDFE-9CDC8C71479F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8995D352-93F4-4A41-BDFE-9CDC8C71479F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576295028.25142705</real>
+			<key>timeStoppedRecording</key>
+			<real>576295031.57028699</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>8995D352-93F4-4A41-BDFE-9CDC8C71479F</string>
+		</dict>
+		<key>93B2124A-4E0E-401B-AB46-2104EEAE8443</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93B2124A-4E0E-401B-AB46-2104EEAE8443.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270834.81333101</real>
+			<key>timeStoppedRecording</key>
+			<real>576270835.00613105</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>93B2124A-4E0E-401B-AB46-2104EEAE8443</string>
+		</dict>
+		<key>96D2221A-23BB-443A-9313-EC65B288CCB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96D2221A-23BB-443A-9313-EC65B288CCB8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271665.11902499</real>
+			<key>timeStoppedRecording</key>
+			<real>576271665.89359295</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>96D2221A-23BB-443A-9313-EC65B288CCB8</string>
+		</dict>
+		<key>9D09AD7B-CF70-478D-876B-CFAEACDD06BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D09AD7B-CF70-478D-876B-CFAEACDD06BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273745.11599803</real>
+			<key>timeStoppedRecording</key>
+			<real>576273747.04446602</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>9D09AD7B-CF70-478D-876B-CFAEACDD06BB</string>
+		</dict>
+		<key>9F53A5BC-9549-4D0E-9CDF-7ECCE83F90A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F53A5BC-9549-4D0E-9CDF-7ECCE83F90A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576292606.64385998</real>
+			<key>timeStoppedRecording</key>
+			<real>576292609.89296806</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>9F53A5BC-9549-4D0E-9CDF-7ECCE83F90A7</string>
+		</dict>
+		<key>A214AFC7-1A88-4704-9905-1F1E40D935CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A214AFC7-1A88-4704-9905-1F1E40D935CE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273465.17570102</real>
+			<key>timeStoppedRecording</key>
+			<real>576273468.70639896</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>A214AFC7-1A88-4704-9905-1F1E40D935CE</string>
+		</dict>
+		<key>A6D43A2F-DAF5-4047-8017-5882EBF43F98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6D43A2F-DAF5-4047-8017-5882EBF43F98.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271784.35696495</real>
+			<key>timeStoppedRecording</key>
+			<real>576271790.78640604</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>A6D43A2F-DAF5-4047-8017-5882EBF43F98</string>
+		</dict>
+		<key>A93CDC24-D485-4E67-A44F-02DDAEEA0693</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A93CDC24-D485-4E67-A44F-02DDAEEA0693.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317430.78896904</real>
+			<key>timeStoppedRecording</key>
+			<real>576317437.46503794</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>A93CDC24-D485-4E67-A44F-02DDAEEA0693</string>
+		</dict>
+		<key>A9651B26-E98E-4272-A116-572DC5139824</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9651B26-E98E-4272-A116-572DC5139824.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317426.50258303</real>
+			<key>timeStoppedRecording</key>
+			<real>576317430.27018297</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>A9651B26-E98E-4272-A116-572DC5139824</string>
+		</dict>
+		<key>AD2EC2B7-E87C-45A3-86E9-21E15C164F9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD2EC2B7-E87C-45A3-86E9-21E15C164F9A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271011.24484801</real>
+			<key>timeStoppedRecording</key>
+			<real>576271017.31183898</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>AD2EC2B7-E87C-45A3-86E9-21E15C164F9A</string>
+		</dict>
+		<key>AFB2C26B-3872-4F42-8A4A-A280EC72F62D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFB2C26B-3872-4F42-8A4A-A280EC72F62D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576311545.14550197</real>
+			<key>timeStoppedRecording</key>
+			<real>576311554.07624304</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>AFB2C26B-3872-4F42-8A4A-A280EC72F62D</string>
+		</dict>
+		<key>B105FC95-6D17-428C-B7EA-6DF0493D8239</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B105FC95-6D17-428C-B7EA-6DF0493D8239.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576268299.11649704</real>
+			<key>timeStoppedRecording</key>
+			<real>576268301.29477799</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>B105FC95-6D17-428C-B7EA-6DF0493D8239</string>
+		</dict>
+		<key>B17E6D03-248A-4061-8941-5597DFD1F0E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B17E6D03-248A-4061-8941-5597DFD1F0E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576318264.36422205</real>
+			<key>timeStoppedRecording</key>
+			<real>576318267.06556296</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>B17E6D03-248A-4061-8941-5597DFD1F0E0</string>
+		</dict>
+		<key>B5A4BF68-B735-465F-A521-B0689A962550</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5A4BF68-B735-465F-A521-B0689A962550.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291020.36968005</real>
+			<key>timeStoppedRecording</key>
+			<real>576291058.40715206</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>B5A4BF68-B735-465F-A521-B0689A962550</string>
+		</dict>
+		<key>BB7F62D1-1E39-4EA7-93E2-140A0810027E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB7F62D1-1E39-4EA7-93E2-140A0810027E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293778.83225</real>
+			<key>timeStoppedRecording</key>
+			<real>576293782.94965005</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>BB7F62D1-1E39-4EA7-93E2-140A0810027E</string>
+		</dict>
+		<key>BC9C95AF-4A62-431E-B1E6-CFE33FA5CD6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC9C95AF-4A62-431E-B1E6-CFE33FA5CD6E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576294667.23452497</real>
+			<key>timeStoppedRecording</key>
+			<real>576294670.88704097</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>BC9C95AF-4A62-431E-B1E6-CFE33FA5CD6E</string>
+		</dict>
+		<key>C8F0876C-2533-4E5D-AFD6-094AF7C60F5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8F0876C-2533-4E5D-AFD6-094AF7C60F5E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270754.79050601</real>
+			<key>timeStoppedRecording</key>
+			<real>576270755.86477995</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>C8F0876C-2533-4E5D-AFD6-094AF7C60F5E</string>
+		</dict>
+		<key>CA161C4D-D164-4DBC-8610-3BD43D268A86</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA161C4D-D164-4DBC-8610-3BD43D268A86.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293681.51554704</real>
+			<key>timeStoppedRecording</key>
+			<real>576293684.25938499</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>CA161C4D-D164-4DBC-8610-3BD43D268A86</string>
+		</dict>
+		<key>CA37034A-8ABE-4CD8-A210-6EAF7A7735D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA37034A-8ABE-4CD8-A210-6EAF7A7735D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273766.38845396</real>
+			<key>timeStoppedRecording</key>
+			<real>576273768.62304604</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>CA37034A-8ABE-4CD8-A210-6EAF7A7735D4</string>
+		</dict>
+		<key>CA825BB1-D0C0-4AB5-BA23-D3BCC08E0981</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA825BB1-D0C0-4AB5-BA23-D3BCC08E0981.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317371.55384004</real>
+			<key>timeStoppedRecording</key>
+			<real>576317377.96800196</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>CA825BB1-D0C0-4AB5-BA23-D3BCC08E0981</string>
+		</dict>
+		<key>CDE1E76E-7722-493E-8D0C-AC3C0B873894</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CDE1E76E-7722-493E-8D0C-AC3C0B873894.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271543.56416297</real>
+			<key>timeStoppedRecording</key>
+			<real>576271549.92572403</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>CDE1E76E-7722-493E-8D0C-AC3C0B873894</string>
+		</dict>
+		<key>CE3C96AE-40AA-4D64-B4FF-47343312284D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE3C96AE-40AA-4D64-B4FF-47343312284D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317567.89041901</real>
+			<key>timeStoppedRecording</key>
+			<real>576317577.52532303</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>CE3C96AE-40AA-4D64-B4FF-47343312284D</string>
+		</dict>
+		<key>D0825A2D-0CA3-48B8-A43F-54D64A2B95AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0825A2D-0CA3-48B8-A43F-54D64A2B95AF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273697.57486999</real>
+			<key>timeStoppedRecording</key>
+			<real>576273706.73761594</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>D0825A2D-0CA3-48B8-A43F-54D64A2B95AF</string>
+		</dict>
+		<key>D13B9696-E0D8-4A2D-A27E-20FF3E369F81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D13B9696-E0D8-4A2D-A27E-20FF3E369F81.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576294049.71630704</real>
+			<key>timeStoppedRecording</key>
+			<real>576294053.51150799</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>D13B9696-E0D8-4A2D-A27E-20FF3E369F81</string>
+		</dict>
+		<key>D5909595-1C4E-4F91-A1E6-1871C5F6F57F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5909595-1C4E-4F91-A1E6-1871C5F6F57F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576292463.65877295</real>
+			<key>timeStoppedRecording</key>
+			<real>576292467.70463896</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>D5909595-1C4E-4F91-A1E6-1871C5F6F57F</string>
+		</dict>
+		<key>D668A3E0-56E0-4276-9080-52C41A3C6FF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D668A3E0-56E0-4276-9080-52C41A3C6FF8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576268972.48740697</real>
+			<key>timeStoppedRecording</key>
+			<real>576268978.54713094</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>D668A3E0-56E0-4276-9080-52C41A3C6FF8</string>
+		</dict>
+		<key>D94D8CB5-D9EC-4E16-8240-FA80720CEDE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D94D8CB5-D9EC-4E16-8240-FA80720CEDE7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270160.708377</real>
+			<key>timeStoppedRecording</key>
+			<real>576270166.88082397</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>D94D8CB5-D9EC-4E16-8240-FA80720CEDE7</string>
+		</dict>
+		<key>DB9C50AA-5E45-458D-9FC3-2F6CAF5D69BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DB9C50AA-5E45-458D-9FC3-2F6CAF5D69BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291843.85761595</real>
+			<key>timeStoppedRecording</key>
+			<real>576291848.55759299</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>DB9C50AA-5E45-458D-9FC3-2F6CAF5D69BC</string>
+		</dict>
+		<key>E07F2B8D-8D85-4A75-8285-5E09A3208A64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E07F2B8D-8D85-4A75-8285-5E09A3208A64.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576273559.34778297</real>
+			<key>timeStoppedRecording</key>
+			<real>576273565.60007906</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>E07F2B8D-8D85-4A75-8285-5E09A3208A64</string>
+		</dict>
+		<key>EA2E86AA-83A4-4096-AEF2-35F81A73624A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EA2E86AA-83A4-4096-AEF2-35F81A73624A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576317236.89376402</real>
+			<key>timeStoppedRecording</key>
+			<real>576317243.420802</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>EA2E86AA-83A4-4096-AEF2-35F81A73624A</string>
+		</dict>
+		<key>EDC0F555-09E2-4149-91DC-4BFA62EA1AA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EDC0F555-09E2-4149-91DC-4BFA62EA1AA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293304.40174103</real>
+			<key>timeStoppedRecording</key>
+			<real>576293307.36987102</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>EDC0F555-09E2-4149-91DC-4BFA62EA1AA8</string>
+		</dict>
+		<key>EE163CFC-B85F-4C9C-81F0-3E601B5819DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE163CFC-B85F-4C9C-81F0-3E601B5819DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291617.38904798</real>
+			<key>timeStoppedRecording</key>
+			<real>576291621.22528994</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>EE163CFC-B85F-4C9C-81F0-3E601B5819DE</string>
+		</dict>
+		<key>EF62927D-C693-4348-B870-A3EC3A267346</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF62927D-C693-4348-B870-A3EC3A267346.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576268246.34626198</real>
+			<key>timeStoppedRecording</key>
+			<real>576268257.59869206</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>EF62927D-C693-4348-B870-A3EC3A267346</string>
+		</dict>
+		<key>EFD87DDE-8B3D-4888-9262-70E3BAB14694</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EFD87DDE-8B3D-4888-9262-70E3BAB14694.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576267410.90692604</real>
+			<key>timeStoppedRecording</key>
+			<real>576267419.75585496</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>EFD87DDE-8B3D-4888-9262-70E3BAB14694</string>
+		</dict>
+		<key>F001D7FE-732E-4C6B-BFE6-F7CF3AC6BB46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F001D7FE-732E-4C6B-BFE6-F7CF3AC6BB46.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576294286.54092598</real>
+			<key>timeStoppedRecording</key>
+			<real>576294289.791237</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F001D7FE-732E-4C6B-BFE6-F7CF3AC6BB46</string>
+		</dict>
+		<key>F01E3384-415F-46F3-A577-4CC870B63AC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F01E3384-415F-46F3-A577-4CC870B63AC2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576269104.622679</real>
+			<key>timeStoppedRecording</key>
+			<real>576269107.27341199</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F01E3384-415F-46F3-A577-4CC870B63AC2</string>
+		</dict>
+		<key>F5AEBDBF-7598-4CA2-82A4-2676BF7C947B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5AEBDBF-7598-4CA2-82A4-2676BF7C947B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293054.01936495</real>
+			<key>timeStoppedRecording</key>
+			<real>576293057.42679203</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F5AEBDBF-7598-4CA2-82A4-2676BF7C947B</string>
+		</dict>
+		<key>F62D7BC3-2277-4FD7-8499-A92C491A8855</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F62D7BC3-2277-4FD7-8499-A92C491A8855.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576293950.05817497</real>
+			<key>timeStoppedRecording</key>
+			<real>576293953.58195496</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F62D7BC3-2277-4FD7-8499-A92C491A8855</string>
+		</dict>
+		<key>F80BD992-91FC-4617-93CC-52BEEC079695</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F80BD992-91FC-4617-93CC-52BEEC079695.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576270796.46094894</real>
+			<key>timeStoppedRecording</key>
+			<real>576270803.05727899</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F80BD992-91FC-4617-93CC-52BEEC079695</string>
+		</dict>
+		<key>F97DCA58-B2FC-48E2-9DA9-85A675CC1D5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F97DCA58-B2FC-48E2-9DA9-85A675CC1D5B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576291788.89090395</real>
+			<key>timeStoppedRecording</key>
+			<real>576291792.24818397</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F97DCA58-B2FC-48E2-9DA9-85A675CC1D5B</string>
+		</dict>
+		<key>F9E406C3-1BDA-47BB-B267-68E2EA75BA9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9E406C3-1BDA-47BB-B267-68E2EA75BA9B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576312223.89617705</real>
+			<key>timeStoppedRecording</key>
+			<real>576312227.04403603</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>F9E406C3-1BDA-47BB-B267-68E2EA75BA9B</string>
+		</dict>
+		<key>FDF6668E-B9E4-4EF9-BF67-70890682B684</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FDF6668E-B9E4-4EF9-BF67-70890682B684.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576318497.20048201</real>
+			<key>timeStoppedRecording</key>
+			<real>576318501.20257199</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>FDF6668E-B9E4-4EF9-BF67-70890682B684</string>
+		</dict>
+		<key>FE715832-0C66-4B4E-8380-03A4EAB3E826</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE715832-0C66-4B4E-8380-03A4EAB3E826.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Heady project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Heady</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Heady</string>
+			<key>timeStartedRecording</key>
+			<real>576271720.43232596</real>
+			<key>timeStoppedRecording</key>
+			<real>576271730.11633396</real>
+			<key>title</key>
+			<string>Build Heady</string>
+			<key>uniqueIdentifier</key>
+			<string>FE715832-0C66-4B4E-8380-03A4EAB3E826</string>
 		</dict>
 	</dict>
 </dict>

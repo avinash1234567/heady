@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "12fee0beb31061182b1dddeedaf407d0"
-build_time: [1554491244, 563733000]
+build_time: [1554574063, 481829000]
 inputs:
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": [1554408555, 0]
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift": [1554408555, 0]

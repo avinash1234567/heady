@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		sSHlUWruPxfvN0MZXySKvKNr7/E=
+		QYUeXqP8ZV0Q3QW+I9gbXWIoc5I=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		56iavWYPGwBTuL5B+lb7IoPHLnA=
+		7iwRRBqG7EMm2TaxI3tgtH1Cq60=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,27 +18,39 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		LoNC1xzGf0teOVX7vxQow56A5u0=
+		TeW6Zl4mBJuPfFPToRDhYpqLivM=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		1sT5IDxjx18V+VQiFCn5TChQiI0=
+		/tSYLxoPcNwaJC0XGzZtdobSA90=
 		</data>
 		<key>Base.lproj/Main.storyboardc/DetailViewController.nib</key>
 		<data>
-		Rvh7R13AIam+1T/HeZp39ulQ9uo=
+		pzD4URmBYUZva19VwhcEXwpFIag=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		/xdGZeKQ3e3BjEPIUpX9BsGjsgg=
+		sLFNhAGXt2oWkIRNLDu86uwgOAM=
+		</data>
+		<key>Base.lproj/Main.storyboardc/SearchViewController.nib</key>
+		<data>
+		9LHVI2ibPsYMsNSv9M6UjwtVwV4=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-Jlg-3h-5Pf.nib</key>
 		<data>
-		bTmSu05u8rfFMkaTDqhKMNVc3Ms=
+		CWeKKURpjM/tlIuCchTGfQs1gew=
+		</data>
+		<key>Base.lproj/Main.storyboardc/ViewController.nib</key>
+		<data>
+		7kMiTV8fgo5vNXZLmUlE20B5x4g=
 		</data>
 		<key>Base.lproj/Main.storyboardc/cr0-2Q-dhK-view-Zu5-ia-QNh.nib</key>
 		<data>
-		uXf2L5AbrDoWNGVjqz26UVesmhc=
+		y0vgk+wCKEhNu8UbJEUbko6W788=
+		</data>
+		<key>Base.lproj/Main.storyboardc/rc4-K5-0qj-view-0VF-m0-VQi.nib</key>
+		<data>
+		wczwPEL8RBAYrBmFew0b4gmSDqQ=
 		</data>
 		<key>Frameworks/AZSearchView.framework/AZSearchView</key>
 		<data>
@@ -279,14 +291,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H78qnKVNB5QDHd7CQer8G5EhIMYo72WfcF7C3RX8Nzw=
+			2+dNWD5DbUuqQer8Wd+657os41578rAvt+EJ5txmsyM=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UaiA5jGbYsEiPSB2ywZ3i+d1PvtIAIs6l0rQ2rlxTho=
+			SNK7U3eAfljPU1CR1VVHjNAz1AkWNyUYQ1mWgqf3IJU=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -300,42 +312,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1+ofyohGbO4fbFxe8TVqZAyqccD3Ga9WYrgtrOYfFhA=
+			8PZFupqAhVNwjtJVrCUWZrg8Rc4blgi9A+0k2yC8PNg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5Jjh93w0EMpMwzhCyEFufZZ8e0hHBMVa44AUq+Urac=
+			qEi741oUBbZDWGiO1k753hHBDvmGCYcF2Aqj2AvpgW8=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/DetailViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFzKSIdpH5Jd/ubdBRyhWHrCffXjhnQbEmQIS2MzcHE=
+			8RifrSgpCBMdNi9mqedvtr0Md9H7gQTPftUUfWXrY8Q=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gWaJsfT45/IZKny7gpD4stxi+fuw4muV2R/AWmysoDA=
+			WVfivOSjLQpsO9uV5F47Fnw8bQHCHbVSYNz0e6JvlV8=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/SearchViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VcHImtBFD6IeAHMgfsPYbL4fmJ/v2J7snlsFAwUUmtw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-Jlg-3h-5Pf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7z5MuJaerBCKIypQ/AuhPPtnmI+yLOc8JavSvOCIDM=
+			hvj/rQ+u//Wqy87sbEasjLYD6bWNsyw1/iYONqysiEI=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/ViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			exHkZNY12JhVQQoqpdYcb4f2UucPOdHxmdXR2jjnmIE=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/cr0-2Q-dhK-view-Zu5-ia-QNh.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MFrkuzwaCMHH7vxjwzmdKB3G/ivhbUuMkyOSw6k9qdI=
+			mfrx0+Iap82WaTKexRpBZW32UCBMG/7zyaj2nvxO15Y=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/rc4-K5-0qj-view-0VF-m0-VQi.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OlQHGftj8wnH4XQ8ugmga+HiUWpJF9jC+xTpDmg28K8=
 			</data>
 		</dict>
 		<key>Frameworks/AZSearchView.framework/AZSearchView</key>

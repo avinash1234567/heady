@@ -17,4 +17,4 @@ let BASE_URL = "https://api.themoviedb.org/3/"
 
 let API_KEY = "9e7bcac5dd8bccd893f2aef4260b3482"
 
-let MOVIE_LIST = "\(BASE_URL)search/movie?query=all&api_key=\(API_KEY)"
+let MOVIE_LIST = "\(BASE_URL)search/movie?"

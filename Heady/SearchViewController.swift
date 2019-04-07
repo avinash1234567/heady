@@ -9,22 +9,54 @@
 import UIKit
 
 class SearchViewController: UIViewController {
-
-    override func viewDidLoad() {
+     override func viewDidLoad() {
         super.viewDidLoad()
+        
+    }
+    var movie = [MovieList]()
 
-        // Do any additional setup after loading the view.
+    var phtol:Bool = false
+    var pltoh:Bool = false
+    var rhtol:Bool = false
+    var rltoh:Bool = false
+
+    @IBAction func ratinghtol(_ sender: Any) {
+        rhtol = true
+        if let vc = self.storyboard?.instantiateViewController(withIdentifier: "ViewController") as? ViewController{
+            vc.rhtol = rhtol
+            vc.movie = self.movie
+
+             self.navigationController?.pushViewController(vc, animated: true)
+        }
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    @IBAction func ratingltoh(_ sender: Any) {
+        rltoh = true
+        if let vc = self.storyboard?.instantiateViewController(withIdentifier: "ViewController") as? ViewController{
+            vc.rltoh = rltoh
+            vc.movie = self.movie
+            self.navigationController?.pushViewController(vc, animated: true)
+        }
+        
     }
-    */
+    
+    @IBAction func popularityhtol(_ sender: Any) {
+        phtol = true
+        if let vc = self.storyboard?.instantiateViewController(withIdentifier: "ViewController") as? ViewController{
+            vc.phtol = phtol
+            vc.movie = self.movie
 
+            self.navigationController?.pushViewController(vc, animated: true)
+        }
+    }
+    
+    @IBAction func populariryltoh(_ sender: Any) {
+        pltoh = true
+        if let vc = self.storyboard?.instantiateViewController(withIdentifier: "ViewController") as? ViewController{
+            vc.pltoh = pltoh
+            vc.movie = self.movie
+
+            self.navigationController?.pushViewController(vc, animated: true)
+        }
+    }
 }

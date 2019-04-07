@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "244b07af0518e29f3a5286133c32877e"
-build_time: [1554491239, 46573000]
+build_time: [1554574062, 471021000]
 inputs:
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationAudioEqualizer.swift": [1554408555, 0]
   "/Users/dhiraj/Desktop/iOS Projects/Heady/Pods/NVActivityIndicatorView/Source/NVActivityIndicatorView/Animations/NVActivityIndicatorAnimationBallBeat.swift": [1554408555, 0]

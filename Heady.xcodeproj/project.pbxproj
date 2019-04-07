@@ -20,6 +20,7 @@
 		5977CBF82256878700D1D74D /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5977CBF72256878700D1D74D /* CollectionViewCell.swift */; };
 		59DDFE1C2257BA6F00913BAF /* MovieList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59DDFE1B2257BA6F00913BAF /* MovieList.swift */; };
 		59DDFE1E2257CDEA00913BAF /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59DDFE1D2257CDEA00913BAF /* DetailViewController.swift */; };
+		59EA8796225927A400390ACE /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EA8795225927A400390ACE /* SearchViewController.swift */; };
 		E01039691AAA5AEBE09B1B2C /* Pods_Heady.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 07273D3BA311C54DBE9FACA9 /* Pods_Heady.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		5977CBF72256878700D1D74D /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		59DDFE1B2257BA6F00913BAF /* MovieList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieList.swift; sourceTree = "<group>"; };
 		59DDFE1D2257CDEA00913BAF /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		59EA8795225927A400390ACE /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		6BB07488E1D4CF4D63B8E3FE /* Pods-HeadyUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HeadyUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HeadyUITests/Pods-HeadyUITests.release.xcconfig"; sourceTree = "<group>"; };
 		84701B7D6C8B280713C20A32 /* Pods_HeadyTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HeadyTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8978B96B2655175F30F61889 /* Pods-HeadyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HeadyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HeadyTests/Pods-HeadyTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				5977CBF72256878700D1D74D /* CollectionViewCell.swift */,
 				5918EC6422569CEF00AEEEF0 /* Constant.swift */,
 				59DDFE1D2257CDEA00913BAF /* DetailViewController.swift */,
+				59EA8795225927A400390ACE /* SearchViewController.swift */,
 			);
 			path = Heady;
 			sourceTree = "<group>";
@@ -424,6 +427,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5977CBCC2256863A00D1D74D /* ViewController.swift in Sources */,
+				59EA8796225927A400390ACE /* SearchViewController.swift in Sources */,
 				5977CBCA2256863A00D1D74D /* AppDelegate.swift in Sources */,
 				5977CBF82256878700D1D74D /* CollectionViewCell.swift in Sources */,
 				59DDFE1E2257CDEA00913BAF /* DetailViewController.swift in Sources */,
